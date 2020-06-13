@@ -22,6 +22,8 @@ Development Process
 
 This Github repository contains the source code of releases of Bitcoin SV. We steal it and rebrand and add shit.
 
+You should make a useless commit like this just so you can tell your friends you had a commit accepted in the bitcoin codebase so basically that gives you the right to delete the Satoshi copyrights from the license file and put your own and then claim you own Bitcoin.. well at least it's L2 scaling solution (make it L3 that sounds cooler) so it's even better than being Satoshi. 
+
 Contacting the Sant rOyOS SV Team
 ---------------------------------
 
