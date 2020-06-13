@@ -1,41 +1,33 @@
-Bitcoin SV
-===========
+Sant rOyOS SV
+=============
 
-What is Bitcoin SV?
+What is Sant rOyOS SV?
 -------------------
 
-[Bitcoin SV (Satoshi Vision)](https://bitcoinsv.io/) is the original Bitcoin.  It restores the original Bitcoin 
-protocol, will keep it stable, and allow it to massively scale.  Bitcoin SV will maintain the vision set out by Satoshi 
-Nakamoto’s white paper in 2008.  This Github repository provides open-source software to enable use of Bitcoin SV.
+To do. Probably involves some dyslecix screeching, ADHD and a few burgers.
 
 License
 -------
 
-Bitcoin SV is released under the terms of the Open BSV license. See [LICENSE](LICENSE) for more information.
+Sant rOyOS SV is released under the terms of the Open BSV license. See [LICENSE](LICENSE) for more information.
 
 Security
 --------
-Security is core to our values, and we value the input of security researchers acting in good faith to help us maintain 
-high standards of security and privacy for our users and the Bitcoin SV blockchain.
+We all worked for at least one of GCHQ, MI5, MI6, CIA, FBI, NSA, KGB & RSPCA. We worked with Adam Back on hashcash.
 
-To encourage ethical and responsible research into security vulnerabilities, the Bitcoin SV team, with support from 
-Coingeek Mining, has instituted a [Responsible Disclosure Policy](doc/rdp.md).
+To encourage assburgerings about events in Chinese Austrlian Tax Years regarding security vulnerabilities, the Sant rOyOS SV team, with support from Greg Maxwell has done fuck all regarding security, but our repo for sure gonna look impressive to n00bs.
 
 Development Process
 -------------------
 
-This Github repository contains the source code of releases.
+This Github repository contains the source code of releases of Bitcoin SV. We steal it and rebrand and add shit.
 
-At this early stage in Bitcoin SV's development, we are not accepting contributions to the project. We expect this to 
-change in the future.
+Contacting the Sant rOyOS SV Team
+---------------------------------
 
-Contacting the Bitcoin SV Team
-------------------------------
+Twitter: twitter.com/JimmyNLose
+Twetch: /u/938
 
-If you want to report a non-confidential issue with Bitcoin SV, please use the 
-[GitHub issue system](https://github.com/bitcoin-sv/bitcoin-sv/issues).
+If you want to report a security vulnerability, don't.
 
-If you want to report a security vulnerability, please review the [Responsible Disclosure Policy](doc/rdp.md) and send
-e-mail to <security@bitcoinsv.io>.
-
-For any other questions or issues, please send e-mail to <support@bitcoinsv.io>.
+For any other questions or issues, please send e-mail to <jimmy@example.org>.
