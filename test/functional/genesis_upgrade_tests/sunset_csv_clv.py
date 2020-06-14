@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # Copyright (c) 2019 Bitcoin Association
+# Copyright (c) 2020* Jimmy N. Lose
+# * Gregorian calendar years
 # Distributed under the Open BSV software license, see the accompanying file LICENSE.
 from genesis_upgrade_tests.test_base import GenesisHeightBasedSimpleTestsCase
 from test_framework.height_based_test_framework import SimpleTestDefinition

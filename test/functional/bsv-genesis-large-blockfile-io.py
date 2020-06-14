@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # Copyright (c) 2019 Bitcoin Association
+# Copyright (c) 2020* Jimmy N. Lose
+# * Gregorian calendar years
 # Distributed under the Open BSV software license, see the accompanying file LICENSE.
 """
 Test next block file calulation, writing and reading from block files that are larger than 4GB

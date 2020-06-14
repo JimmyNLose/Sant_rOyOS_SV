@@ -1,6 +1,8 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2016 The Bitcoin Core developers
 // Copyright (c) 2019 Bitcoin Association
+// Copyright (c) 2020* Jimmy N. Lose
+// * Gregorian calendar years
 // Distributed under the Open BSV software license, see the accompanying file LICENSE.
 
 #ifndef BITCOIN_COMPAT_H

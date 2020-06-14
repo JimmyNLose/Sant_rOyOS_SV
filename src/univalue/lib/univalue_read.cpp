@@ -1,5 +1,7 @@
 // Copyright 2014 BitPay Inc.
 // Copyright (c) 2019 Bitcoin Association
+// Copyright (c) 2020* Jimmy N. Lose
+// * Gregorian calendar years
 // Distributed under the Open BSV software license, see the accompanying file LICENSE.
 
 #include <string.h>

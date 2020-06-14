@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # Copyright (c) 2019 Bitcoin Association
+# Copyright (c) 2020* Jimmy N. Lose
+# * Gregorian calendar years
 # Distributed under the Open BSV software license, see the accompanying file LICENSE.
 """
 Testing whether a newer (better) block with more chain work terminates validation of one
