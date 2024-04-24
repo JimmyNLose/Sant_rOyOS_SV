@@ -27,8 +27,8 @@ You should make a useless commit like this just so you can tell your friends you
 Contacting the Sant rOyOS SV Team
 ---------------------------------
 
-Twitter: twitter.com/JimmyNLose
-Twetch: /u/938
+Twitter: twitter.com/RunDeathIsNear
+Twetch: /u/938 - except won't be able to reply cause not my keys not my corn.
 
 If you want to report a security vulnerability, don't.
 
